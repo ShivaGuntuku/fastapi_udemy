@@ -2,5 +2,11 @@
 ### Learning from udemy
 **Tutorial Link:**  https://www.udemy.com/course/fastapi-the-complete-course/
 
-** Frontend Not Included **
-completed on: 09/02/24
+
+
+## **Run FastAPI APP** : uvicorn TodoApp.main:app --reload
+
+#### **pytest**: pytest --disable-warnings -vv
+
+**Frontend Not Included**
+**completed on: 09/02/24**
