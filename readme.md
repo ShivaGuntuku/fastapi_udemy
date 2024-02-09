@@ -4,9 +4,10 @@
 
 
 
-## **Run FastAPI APP** : uvicorn TodoApp.main:app --reload
+**Run FastAPI APP** : uvicorn TodoApp.main:app --reload
 
-#### **pytest**: pytest --disable-warnings -vv
+**pytest**: pytest --disable-warnings -vv
 
 **Frontend Not Included**
+
 **completed on: 09/02/24**
