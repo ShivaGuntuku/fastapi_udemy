@@ -8,6 +8,6 @@
 
 **pytest**: pytest --disable-warnings -vv
 
-**Frontend Not Included**
+Frontend Not Included
 
-**completed on: 09/02/24**
+completed on: 09/02/24
